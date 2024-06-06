@@ -11,3 +11,7 @@ Pada repositori ini terdapat beberapa file serta direktori, ada beberapa hal yan
 * Sebelum menjalankan program, pastikan terdapat Library ***Numpy*** dan ***Numpy***dikarenakan program ini menggunakan library tersebut
 
 ## Berikut contoh penerapannya
+![Contoh Permasalahan](img/img2.png)
+
+Hasil running program 
+![Hasil](img/img1.png)
